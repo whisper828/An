@@ -1,0 +1,43 @@
+{
+  "activeColor": "#0387f9",
+  "inActiveColor": "#333333",
+  "selectTab": 0,
+  "tabs": [
+    {
+      "size": 18,
+      "enable": true,
+      "index": 0,
+      "pageUrl": "main/tabs/message",
+      "title": "消息"
+    },
+    {
+      "size": 18,
+      "enable": true,
+      "index": 1,
+      "pageUrl": "main/tabs/file",
+      "title": "文档"
+    },
+    {
+      "size": 18,
+      "enable": true,
+      "index": 2,
+      "tintColor": "#ff678f",
+      "pageUrl": "main/tabs/auth",
+      "title": "组织"
+    },
+    {
+      "size": 18,
+      "enable": true,
+      "index": 3,
+      "pageUrl": "main/tabs/contact",
+      "title": "通讯录"
+    },
+    {
+      "size": 18,
+      "enable": true,
+      "index": 4,
+      "pageUrl": "main/tabs/discover",
+      "title": "发现"
+    }
+  ]
+}
